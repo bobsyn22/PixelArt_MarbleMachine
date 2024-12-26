@@ -1,4 +1,6 @@
 # PixelArt_MarbleMachine
+Project Video - https://www.youtube.com/watch?v=mG9-P-ouYU0&t=5s
+
 We created the a Marble Machine that can replicate any image as a 50x50 pixel art image using grey, black, and white marbles. This program is built using C and runs off a single MSP430 Microcontroller to control three stepper motors for marble sorting and selection.
 
 <img src="https://github.com/user-attachments/assets/86463b3a-6257-4938-a6cb-2f9dce86785c" alt="HongPixelArt" width="500">
