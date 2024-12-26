@@ -2,6 +2,9 @@
 We created the a Marble Machine that can replicate any image as a 50x50 pixel art image using grey, black, and white marbles. This program is built using C and runs off a single MSP430 Microcontroller to control three stepper motors for marble sorting and selection.
 
 
+![HongPixelArt](https://github.com/user-attachments/assets/86463b3a-6257-4938-a6cb-2f9dce86785c)
+
+
 Firstly, an image is processed through an algorithm/program in MATLAB that greyscales and pixelates any colored image. This is done automatically; however, a GUI that displays each individual pixel of the simulated image to be printed was designed to allow the user to manually tweak an image if necessary. This GUI also has a "blank canvas" feature that allows you to "paint" in pixels and print custom drawings. 
 
 Each pixel is then stored in a 2D array, representing the rows and columns of the pixelated image. 
